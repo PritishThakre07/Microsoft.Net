@@ -1,0 +1,12 @@
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\bin\Debug\net7.0\HR.deps.json
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\bin\Debug\net7.0\HR.dll
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\bin\Debug\net7.0\HR.pdb
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.dll
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\refint\HR.dll
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\HR.pdb
+D:\Microsoft.NET\dotnet\Day2\Practice\HR\obj\Debug\net7.0\ref\HR.dll

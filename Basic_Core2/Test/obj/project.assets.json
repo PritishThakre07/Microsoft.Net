@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Drawing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Drawing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Drawing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drawing/1.0.0": {
+      "type": "project",
+      "path": "../Drawing/Drawing.csproj",
+      "msbuildProject": "../Drawing/Drawing.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Drawing >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pritish\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Microsoft.NET\\dotnet\\Day3\\Practice\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "D:\\Microsoft.NET\\dotnet\\Day3\\Practice\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\Pritish\\.nuget\\packages\\",
+      "outputPath": "D:\\Microsoft.NET\\dotnet\\Day3\\Practice\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pritish\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Microsoft.NET\\dotnet\\Day3\\Practice\\Drawing\\Drawing.csproj": {
+              "projectPath": "D:\\Microsoft.NET\\dotnet\\Day3\\Practice\\Drawing\\Drawing.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

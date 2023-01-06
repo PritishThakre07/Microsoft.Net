@@ -1,0 +1,15 @@
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day1\Practice1\bin\Debug\net7.0\Practice1.exe
+D:\Microsoft.NET\dotnet\Day1\Practice1\bin\Debug\net7.0\Practice1.deps.json
+D:\Microsoft.NET\dotnet\Day1\Practice1\bin\Debug\net7.0\Practice1.runtimeconfig.json
+D:\Microsoft.NET\dotnet\Day1\Practice1\bin\Debug\net7.0\Practice1.dll
+D:\Microsoft.NET\dotnet\Day1\Practice1\bin\Debug\net7.0\Practice1.pdb
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.dll
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\refint\Practice1.dll
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.pdb
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\Practice1.genruntimeconfig.cache
+D:\Microsoft.NET\dotnet\Day1\Practice1\obj\Debug\net7.0\ref\Practice1.dll

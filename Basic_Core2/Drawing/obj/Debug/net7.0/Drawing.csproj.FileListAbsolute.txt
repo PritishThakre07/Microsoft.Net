@@ -1,0 +1,12 @@
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\Microsoft.NET\dotnet\Day3\Practice\Drawing\obj\Debug\net7.0\ref\Drawing.dll
