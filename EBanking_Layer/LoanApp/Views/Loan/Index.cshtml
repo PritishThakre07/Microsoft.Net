@@ -1,0 +1,28 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+
+<h1>E Banking Loan Integration</h1>
+
+@{
+
+    List <Loan> alltype = (List<Loan>)ViewData["loans"];
+
+       Console.WriteLine(" Step view Index");
+
+
+        <ol>
+            @foreach(Loan l in alltype)
+            {
+                <li><a href="/loan/details/@l.Id">@l.LoanName</a></li>
+            }
+        </ol>
+
+  
+
+}
+
+</div>

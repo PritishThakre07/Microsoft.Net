@@ -1,0 +1,15 @@
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\bin\Debug\net7.0\DLL.deps.json
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\bin\Debug\net7.0\DLL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\bin\Debug\net7.0\DLL.pdb
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\bin\Debug\net7.0\BOL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\bin\Debug\net7.0\BOL.pdb
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.csproj.CopyComplete
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\refint\DLL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\DLL.pdb
+D:\Microsoft.NET\dotnet\Day10\E_Banking\DLL\obj\Debug\net7.0\ref\DLL.dll

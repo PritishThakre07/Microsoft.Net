@@ -1,0 +1,19 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Detail Page";
+}
+
+<div>
+
+<h1>Detail About Loan Type </h1>
+
+@{
+    Loan onetype = ViewData["loan"] as Loan;
+
+    <p> LoanId : @onetype.Id</p>
+    <p> LoanName : @onetype.LoanName</p>
+    <p> Description : @onetype.Description</p>
+}
+
+
+</div>

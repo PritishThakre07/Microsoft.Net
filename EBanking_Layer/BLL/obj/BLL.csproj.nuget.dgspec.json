@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BLL\\BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Pritish\\.nuget\\packages\\",
+        "outputPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pritish\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj"
+              },
+              "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\DLL.csproj": {
+                "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\DLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\Pritish\\.nuget\\packages\\",
+        "outputPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pritish\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\DLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\DLL.csproj",
+        "projectName": "DLL",
+        "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\DLL.csproj",
+        "packagesPath": "C:\\Users\\Pritish\\.nuget\\packages\\",
+        "outputPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\DLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pritish\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Microsoft.NET\\dotnet\\Day10\\E_Banking\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

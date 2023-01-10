@@ -1,0 +1,12 @@
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\bin\Debug\net7.0\BOL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\bin\Debug\net7.0\BOL.pdb
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\BOL.pdb
+D:\Microsoft.NET\dotnet\Day10\E_Banking\BOL\obj\Debug\net7.0\ref\BOL.dll
