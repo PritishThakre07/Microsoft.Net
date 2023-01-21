@@ -1,0 +1,20 @@
+
+@using BOL;
+@model Player;
+
+@{
+    ViewData["Title"]="Serilaistion";
+}
+<div>
+    <h1>All Serialize </h1>
+@{
+
+    List<Player> ply = (List<Player>) ViewData["ply"] ;
+
+    @foreach (var all in ply)
+    {
+        @all.ToString();
+    }
+}
+
+</div>

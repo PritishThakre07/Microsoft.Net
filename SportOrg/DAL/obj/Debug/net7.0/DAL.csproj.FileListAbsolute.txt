@@ -1,0 +1,15 @@
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\bin\Debug\net7.0\DAL.dll
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\bin\Debug\net7.0\BOL.dll
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\bin\Debug\net7.0\BOL.pdb
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.dll
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Microsoft.NET\dotnet\Day12\SportOrg\DAL\obj\Debug\net7.0\ref\DAL.dll

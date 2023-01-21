@@ -1,0 +1,18 @@
+@using BOL;
+@{
+    ViewData["Title"]="Ply Page";
+}
+
+<div>
+    <h1>All Legend Players </h1>
+    @{
+       
+        List<Player> all = ViewBag.Players;
+
+            @foreach (var p in all)
+            {
+                <li>@p.ToString()</li>
+            }
+    }
+     
+</div>

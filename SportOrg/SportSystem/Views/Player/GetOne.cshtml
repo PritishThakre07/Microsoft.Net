@@ -1,0 +1,14 @@
+@using BOL;
+@model Player;
+
+@{
+    ViewData["Title"]="One Player Page";
+}
+
+<div>
+<form method="post" action="/player/getone">
+<label for="id">ID :</label>
+<input type="number" id="id" name="id" asp-for="Id">
+ 
+</form>
+</div>

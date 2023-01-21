@@ -1,0 +1,25 @@
+
+@using BOL;
+@model Player;
+
+
+<div>
+    <h2>Add Players Details</h2>
+    <hr>
+   <form method="post" action="/player/insert">
+  <div class="form-group">
+    <label for="id">Player Id : </label>
+    <input type="number" id="id" class="form-control" asp-for="Id">
+  </div>
+  <div class="form-group">
+    <label for="name">Player Name : </label>
+    <input type="text" id="name" class="form-control" asp-for="Name">
+  </div>
+  <div class="form-group">
+    <label for="game">Game : </label>
+    <input type="text" id="game" class="form-control" asp-for="Game">
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+
+</div>

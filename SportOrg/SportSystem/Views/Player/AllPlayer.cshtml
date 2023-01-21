@@ -1,0 +1,24 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Allplayer Page";
+}
+
+<div>
+    <h1>All GOAT PLAYERS ARE HERE !!!!!</h1>
+
+    @{
+        List<Player> allply =  (List<Player>)ViewData["player"];
+
+
+            <ol>
+                 @foreach(Player p in allply)
+                {
+                    <li>@p.ToString()</li>
+                }
+            </ol>
+           
+
+    }
+
+
+</div>
